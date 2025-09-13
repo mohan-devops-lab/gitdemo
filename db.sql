@@ -3,3 +3,4 @@ This is sql file
 merge conflict..........
 This line is updated
 updating in master branch
+updating in dev branch
